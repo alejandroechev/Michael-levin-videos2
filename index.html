@@ -1,0 +1,89 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="theme-color" content="#182b27">
+    <meta name="description" content="Explore 50 recent videos from Michael Levin's academic channel, with transcript-based summaries, topic labels, and a personal watchlist.">
+    <title>Possible Minds — Michael Levin Video Library</title>
+    <link rel="icon" href="./favicon.svg" type="image/svg+xml">
+    <link rel="stylesheet" href="./src/styles.css">
+    <script type="module" src="./src/app.js"></script>
+  </head>
+  <body>
+    <a class="skip-link" href="#library">Skip to video library</a>
+    <header class="masthead">
+      <a class="brand" href="./" aria-label="Possible Minds home"><span class="brand-mark" aria-hidden="true">p<span>m</span></span> POSSIBLE MINDS</a>
+      <a class="channel-link" href="https://www.youtube.com/@drmichaellevin/videos" target="_blank" rel="noopener noreferrer">Michael Levin's channel <span aria-hidden="true">↗</span></a>
+    </header>
+
+    <main>
+      <section class="hero" aria-labelledby="page-title">
+        <div class="hero-copy">
+          <p class="eyebrow"><span class="live-dot"></span> A FIELD GUIDE TO DIVERSE INTELLIGENCE</p>
+          <h1 id="page-title">Life is stranger <br>than we <em>think.</em></h1>
+          <p class="hero-description">A reading room for Michael Levin's academic channel. Explore the ideas, find your next rabbit hole, and save what stays with you.</p>
+          <div class="hero-meta"><span><strong id="total-count">50</strong> recent videos</span><span>Transcript-based summaries</span><span>No account needed</span></div>
+        </div>
+        <div class="orbit-art" aria-hidden="true">
+          <div class="orbit orbit-one"></div><div class="orbit orbit-two"></div><div class="orbit orbit-three"></div>
+          <div class="orbit-center">What else<br>can a mind<br><em>be?</em></div>
+          <span class="orbit-dot dot-one"></span><span class="orbit-dot dot-two"></span><span class="orbit-dot dot-three"></span>
+          <span class="art-caption">BIOLOGY · COGNITION · POSSIBILITY</span>
+        </div>
+      </section>
+
+      <section id="library" class="library" aria-labelledby="library-title">
+        <div class="section-heading">
+          <div><p class="eyebrow">THE COLLECTION</p><h2 id="library-title">Follow your curiosity.</h2></div>
+          <p id="snapshot" class="snapshot">Loading the latest collection…</p>
+        </div>
+        <p id="coverage" class="coverage" hidden></p>
+        <div id="notice" class="notice" role="status" hidden></div>
+        <div class="library-layout">
+          <aside class="filters" aria-label="Filter videos">
+            <div class="filter-heading"><h3>Find an idea</h3><button id="reset" class="text-button" type="button">Reset filters</button></div>
+            <label class="field-label" for="search">Search the collection</label>
+            <input id="search" type="search" placeholder="An idea, a title, a speaker…" autocomplete="off">
+
+            <label class="favorite-filter" for="favorites-only">
+              <input id="favorites-only" type="checkbox">
+              <span>Favorites only</span><span id="favorites-count" class="count-pill" aria-hidden="true">0</span>
+            </label>
+            <p class="filter-help">Your watchlist is saved in this browser.</p>
+
+            <label class="field-label" for="rating">Minimum interest rating</label>
+            <select id="rating">
+              <option value="0">All ratings</option>
+              <option value="9">9+ · Exceptional curiosity</option>
+              <option value="8">8+ · Highly interesting</option>
+              <option value="7">7+ · Worth exploring</option>
+              <option value="6">6+ · Specialist interest</option>
+              <option value="5">5+ · All but niche picks</option>
+            </select>
+            <details class="rating-guide"><summary>What does the rating mean?</summary><p>AI editorial opinion, not scientific quality or consensus. Scores favor surprising ideas, connections across fields, and explanatory depth: 9–10 exceptional, 7–8 strong, 5–6 narrower appeal, 1–4 limited interest. Each video includes a reason.</p></details>
+
+            <fieldset class="topics-fieldset">
+              <legend>Explore by topic</legend>
+              <p class="filter-help">Choose any topics. Videos matching at least one are shown.</p>
+              <div id="topics" class="topics"></div>
+            </fieldset>
+          </aside>
+
+          <div class="results">
+            <div class="results-toolbar">
+              <h3 id="result-count" tabindex="-1" role="status" aria-live="polite">Loading videos…</h3>
+              <div class="sort-label"><label for="sort">Sort</label><select id="sort"><option value="newest">Newest first</option><option value="rating">Highest rated</option></select></div>
+            </div>
+            <div id="video-list" class="video-list" aria-busy="true"></div>
+            <div id="empty" class="empty-state" hidden><span aria-hidden="true">↗</span><h3>No videos here yet.</h3><p>Try fewer filters, or save a video with its favorite button.</p><button id="empty-reset" class="primary-button" type="button">Clear filters</button></div>
+            <div id="load-error" class="empty-state" role="alert" hidden><h3>The collection couldn't load.</h3><p id="load-error-detail"></p><button id="retry" class="primary-button" type="button">Try again</button></div>
+          </div>
+        </div>
+      </section>
+    </main>
+
+    <footer><div class="footer-brand">POSSIBLE MINDS <span>Stay curious.</span></div><p>An independent index, not affiliated with Michael Levin. Summaries and ratings are AI-generated from video transcripts, which may contain caption errors. Research claims are attributed to speakers, not medical advice. The collection is a dated snapshot, not a live feed.</p><a href="https://github.com/alejandroechev/Michael-levin-videos2" target="_blank" rel="noopener noreferrer">View source ↗</a></footer>
+    <noscript><p class="notice">This library needs JavaScript for its video list and local favorites. <a href="./data/videos.json">Read the complete collection as JSON</a>.</p></noscript>
+  </body>
+</html>

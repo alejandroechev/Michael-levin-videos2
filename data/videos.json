@@ -1,0 +1,897 @@
+{
+  "schemaVersion": 1,
+  "channel": {
+    "name": "Michael Levin's Academic Content",
+    "url": "https://www.youtube.com/@drmichaellevin/videos"
+  },
+  "fetchedAt": "2026-10-10T20:31:18.000Z",
+  "videos": [
+    {
+      "id": "m96j6MXcisw",
+      "position": 1,
+      "title": "\"Thermodynamics, Control, & Fundamental Niche\" by M Kearney, I Shames, R Schouten, P Egré, R Evans",
+      "url": "https://www.youtube.com/watch?v=m96j6MXcisw",
+      "summary": "An interdisciplinary team combines heat, water, and metabolic budgets with control theory to model the environmental conditions in which organisms can complete their life cycles. Their rabbit example replaces a fixed sequence of thermoregulatory decisions with constrained optimization, reproducing observed temperature responses and predicting reduced exposed surface area in extreme heat. Discussion with Levin extends the framework to ant colonies, cellular signaling costs, and mathematical limits on feedback, while treating applications to novel organisms as future research.",
+      "rating": 8,
+      "ratingReason": "I find the connection between a concrete rabbit model and general limits on biological control especially engaging.",
+      "labels": [
+        "Thermodynamics",
+        "Control theory",
+        "Biophysics",
+        "Metabolism"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "09t5uupqax0",
+      "position": 2,
+      "title": "\"Neuroscience Beyond Neurons: communicating with unconventional minds\" by Michael Levin",
+      "url": "https://www.youtube.com/watch?v=09t5uupqax0",
+      "summary": "Levin argues that neuroscience should investigate how cognition scales across cellular collectives, rather than restrict itself to neurons. He illustrates goal-directed development with scrambled tadpole faces that reorganize toward normal anatomy and planarians whose altered bioelectric states support repeated two-headed regeneration without genome editing. Xenobots and human-cell anthrobots extend the question to unfamiliar embodiments and behaviors. The lecture closes by proposing, rather than establishing, a shared space of mathematical and behavioral patterns as a possible source of novel competencies.",
+      "rating": 10,
+      "ratingReason": "I find the combination of striking developmental experiments and explicit questions about unfamiliar minds exceptionally stimulating.",
+      "labels": [
+        "Bioelectricity",
+        "Collective intelligence",
+        "Cognition",
+        "Regeneration"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "mMspSM9IRVg",
+      "position": 3,
+      "title": "Discussion with Marsha Hewitt (Platonic Space and related ideas)",
+      "url": "https://www.youtube.com/watch?v=mMspSM9IRVg",
+      "summary": "Marsha Hewitt connects Levin's proposed Platonic space to William James, psychoanalysis, religious studies, and teaching across disciplinary boundaries. They examine the brain-as-filter analogy, with Levin suggesting that particular embodiments select specific patterns rather than manufacture every competency from scratch. He explicitly identifies the idea that these patterns change through embodiment as an unconfirmed hypothesis. Their discussion also considers students' relationships with AI, ethical concern for unfamiliar beings, and technologies for communicating with cellular processes beyond ordinary verbal awareness.",
+      "rating": 7,
+      "ratingReason": "I enjoy the philosophical and educational connections, though my interest is stronger when the discussion reaches concrete communication experiments.",
+      "labels": [
+        "Philosophy",
+        "Consciousness",
+        "Cognition",
+        "AI & computation"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "6W5qhMasROY",
+      "position": 4,
+      "title": "\"Life, Machines, and a Foundation for Synthbiosis\" by Michael Levin",
+      "url": "https://www.youtube.com/watch?v=6W5qhMasROY",
+      "summary": "In a compact overview, Levin proposes ethical coexistence with biological, artificial, and hybrid beings under the name synthbiosis. Xenobots and anthrobots motivate questions about where unexpected competencies originate, while molecular-network models illustrate his reported coupling between learning and increased causal emergence, including gains retained after forgetting. He introduces Mambot, an automated platform that tests stimuli on frog cells and revises hypotheses from the resulting forms and behaviors. A speculative account links biological and technological competencies to a shared structured space of patterns.",
+      "rating": 8,
+      "ratingReason": "I particularly like the concise bridge from cellular learning models to an automated experimental platform.",
+      "labels": [
+        "AI & computation",
+        "Collective intelligence",
+        "Experimental methods",
+        "Philosophy"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "Or_3tlEOLj4",
+      "position": 5,
+      "title": "Biology, AI, and Diverse Intelligence by Michael Levin",
+      "url": "https://www.youtube.com/watch?v=Or_3tlEOLj4",
+      "summary": "Levin challenges the human-versus-machine framing of AI by tracing bodies from cellular collectives to coordinated agents and describing bioelectric interventions that redirect anatomy. He uses xenobots, anthrobots, and reported unexpected behaviors in simple sorting algorithms to question whether design, training, and selection exhaust explanations of competency. Mambot offers three perspectives: translator for scientists, explorer of anatomical possibilities, and prosthetic for frog cells. His closing Platonic-space account is a philosophical proposal, not a demonstrated explanation of consciousness.",
+      "rating": 8,
+      "ratingReason": "I find the three contrasting interpretations of Mambot a useful way to rethink agency and embodiment.",
+      "labels": [
+        "AI & computation",
+        "Bioelectricity",
+        "Collective intelligence",
+        "Philosophy"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "A8ro2GUU_UU",
+      "position": 6,
+      "title": "\"Measuring Machine Consciousness\" by Cameron Berg",
+      "url": "https://www.youtube.com/watch?v=A8ro2GUU_UU",
+      "summary": "Cameron Berg presents a portfolio approach to studying possible machine consciousness without claiming a decisive test. Activation-steering experiments change models' reports of experience, but he cautions that these reports may not track genuine internal experience. Separate reinforcement-learning experiments reveal contrasting reward and punishment geometries in policy and value networks, with parallels in mouse recordings. An indicator framework compares biological and artificial architectures against consciousness theories; its scores express theory-related features, not calibrated probabilities that a system is conscious.",
+      "rating": 9,
+      "ratingReason": "I am especially interested in the attempt to replace intuitive reactions to chatbot language with several testable, explicitly limited measurements.",
+      "labels": [
+        "Consciousness",
+        "AI & computation",
+        "Neuroscience",
+        "Experimental methods"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "3OYrFiUEuSs",
+      "position": 7,
+      "title": "A conversation with Andrey Vyshedskiy about the evolution of language and brain development",
+      "url": "https://www.youtube.com/watch?v=3OYrFiUEuSs",
+      "summary": "Andrey Vyshedskiy presents a three-level account of comprehension: individual commands, noun-adjective combinations, and syntactic relationships between objects. He connects this framework to childhood language exposure and reports results from his mental-imagery training app, while advancing strong claims about developmental sensitive periods. His evolutionary proposal attributes a major transition to children inventing syntactic language after an extended learning window emerged. Levin probes possible mechanisms, ways to recognize comparable abilities in unfamiliar minds, and the speculative prospect of reopening developmental plasticity.",
+      "rating": 7,
+      "ratingReason": "I find the link between imagination, language, and developmental timing intriguing, particularly the questions about testing these ideas beyond humans.",
+      "labels": [
+        "Language & communication",
+        "Neuroscience",
+        "Evolution",
+        "Cognition"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "YvUn3G2lPxs",
+      "position": 8,
+      "title": "Conversation #1 with Diego Bohórquez and Mijail D. Serruya: how information moves levels in bodies",
+      "url": "https://www.youtube.com/watch?v=YvUn3G2lPxs",
+      "summary": "Bohórquez describes gut neuropod cells that detect nutrients and communicate with neurons, while Serruya outlines neural cultures, stimulation interfaces, and prospective assistive implants. Levin brings these approaches together around a question: how does information move between molecular, cellular, organ, and personal levels? They propose connecting gut and brain organoids, exchanging biological signals, and eventually translating physiological needs into language. These are exploratory collaboration ideas, including speculative interpretations of interoception and consciousness, rather than established clinical capabilities.",
+      "rating": 9,
+      "ratingReason": "I find the concrete proposal to connect gut and neural model systems a compelling route into questions about communication across biological levels.",
+      "labels": [
+        "Neuroscience",
+        "Cell biology",
+        "Language & communication",
+        "Experimental methods"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "YXXYM3Z4fV0",
+      "position": 9,
+      "title": "\"Deciphering Visceral Instincts\" by Diego Bohórquez",
+      "url": "https://www.youtube.com/watch?v=YXXYM3Z4fV0",
+      "summary": "Diego Bohórquez traces the discovery of gut neuropod cells as rapid sensory intermediaries rather than solely hormone-secreting cells. Imaging, neural tracing, co-culture, and electrophysiology support direct communication with nerves; glucose sensing recruits fast glutamate signaling before slower hormonal effects. In mouse experiments, silencing neuropods disrupts preference for sugar over sweetener, with discrimination returning afterward. He also describes a colonic pathway in which bacterial flagellin activates TLR5 on neuropods, engaging peptide signaling to the vagus nerve and altering feeding patterns.",
+      "rating": 9,
+      "ratingReason": "I find the progression from cell anatomy to reversible feeding-behavior experiments particularly satisfying and informative.",
+      "labels": [
+        "Neuroscience",
+        "Cell biology",
+        "Metabolism",
+        "Experimental methods"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "S9rkn4eJakY",
+      "position": 10,
+      "title": "Conversation #1 with Steven Strogatz",
+      "url": "https://www.youtube.com/watch?v=S9rkn4eJakY",
+      "summary": "Steven Strogatz and Michael Levin ask what makes a mathematical explanation satisfying beyond a formally correct proof. Strogatz traces how an unexpected reduction in coupled Josephson junction dynamics first received an algebraic solution and later a geometric explanation involving symmetry. They discuss whether mathematical discoveries support Platonism, why familiar constants seem numerically small, and how pi enters probability through rotational symmetry. The conversation emphasizes personal mathematical intuition while leaving several conjectures and recalled examples explicitly unsettled.",
+      "rating": 8,
+      "ratingReason": "I find the contrast between proving a result and understanding why it works especially rewarding.",
+      "labels": [
+        "Mathematics",
+        "Philosophy"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "k9lGNyPHurQ",
+      "position": 11,
+      "title": "\"Inspiration Across Substrates: free lunches, diverse intelligence and surprise\" by Michael Levin",
+      "url": "https://www.youtube.com/watch?v=k9lGNyPHurQ",
+      "summary": "Levin calls an unexpected surplus of capability over design, selection, or training effort a free lunch. He illustrates the idea with tail-eye tadpoles, self-assembling xenobots, human-cell anthrobots, and sorting algorithms that tolerate particular disruptions without dedicated repair instructions. These examples motivate his speculative proposal that biological and engineered systems access a structured space of patterns with varying degrees of agency. He closes by asking whether creative inspiration could involve active patterns seeking expression, explicitly acknowledging the lack of evidence for that final suggestion.",
+      "rating": 9,
+      "ratingReason": "I am drawn to the ambitious comparison between biological plasticity, simple algorithms, and creative inspiration.",
+      "labels": [
+        "AI & computation",
+        "Collective intelligence",
+        "Philosophy",
+        "Cell biology"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "vzEqlf_KKmE",
+      "position": 12,
+      "title": "\"Theory of Evolving Self-representations (TEVSER)\" by Igor Pivovarov",
+      "url": "https://www.youtube.com/watch?v=vzEqlf_KKmE",
+      "summary": "Igor Pivovarov presents TEVSER, a proposed evolutionary account of consciousness built from progressively richer self-representations. Starting with a cell's regulation of osmotic pressure, he connects internal regulatory models to differentiated sensations, spatial localization, attention, object recognition, memory, and prediction. He distinguishes being situated here and now from reflective self-consciousness, which he links to social interaction. Language occupies a late, comparatively self-contained symbolic layer in this framework, rather than serving as the starting point for intelligence or subjective experience.",
+      "rating": 7,
+      "ratingReason": "I appreciate the attempt to separate several often-conflated mental capacities into a single developmental framework.",
+      "labels": [
+        "Consciousness",
+        "Evolution",
+        "Control theory",
+        "Cognition"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "_FulS2EMqJc",
+      "position": 13,
+      "title": "\"Computing is not Living: universality and self-replication in dynamical systems\" by Barbora Hudcova",
+      "url": "https://www.youtube.com/watch?v=_FulS2EMqJc",
+      "summary": "Barbora Hudcova separates universal computation from the stronger requirements of self-replication in cellular automata. A quine copies instructions, whereas von Neumann's constructor also rebuilds the machinery needed to interpret them; Tierra supplies part of that machinery through its programmed environment. She distinguishes local Turing-machine simulation from global simulation of other automata and presents a locally universal system that fails even a minimal replication condition. Open questions include robustness to noise, continuous media, and whether rule 110 supports nontrivial self-replication.",
+      "rating": 9,
+      "ratingReason": "I find the precise distinction between copying information and rebuilding its interpreter unusually illuminating.",
+      "labels": [
+        "AI & computation",
+        "Mathematics"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "g1CIyaFZ9Rg",
+      "position": 14,
+      "title": "Conversation #1 with Alexey Tolchinsky, Anthony Weiss and Chris Fields",
+      "url": "https://www.youtube.com/watch?v=g1CIyaFZ9Rg",
+      "summary": "Alexey Tolchinsky, Anthony Weiss, Chris Fields, and Levin question whether static diagnostic categories and isolated brain modules adequately describe mental distress. They propose more contextual, dynamical models, using a tethered kite to illustrate the balance between constraint and variability. Discussion shifts to energy budgets, disrupted sleep and appetite, and competition among processes within an organism. Smartphones provide a concrete example of reciprocal cognitive demands: they offload our work while recruiting our attention, complicating future psychiatry for technologically augmented people.",
+      "rating": 8,
+      "ratingReason": "I find the connection between clinical descriptions, bodily energy regulation, and technology's demands on attention compelling.",
+      "labels": [
+        "Neuroscience",
+        "Cognition",
+        "Metabolism",
+        "AI & computation"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "2AETYjkygQs",
+      "position": 15,
+      "title": "Conversation #1 with Thomas Pollak and David King",
+      "url": "https://www.youtube.com/watch?v=2AETYjkygQs",
+      "summary": "Thomas Pollak, David King, and Levin explore a speculative picture of psychiatric symptoms as shifts in agency among interacting processes within a person. Levin describes cellular memory sharing through gap junctions and stress sharing as possible analogies for integration and dissociation. They consider hypothetical prosthetic outlets for persistent thoughts, nonverbal physiological communication, and why some psychedelic effects outlast drug exposure. Discussions of autonomous patterns and reported entities remain conjectural, not evidence of external beings or established approaches to treatment.",
+      "rating": 7,
+      "ratingReason": "I find the proposed connections between cellular coordination and psychiatric experience provocative, though unusually speculative.",
+      "labels": [
+        "Consciousness",
+        "Bioelectricity",
+        "Philosophy",
+        "Neuroscience"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "SsUmmN1oOgo",
+      "position": 16,
+      "title": "\"Ephaptic-axonal interference and neuronal development\" by Daniel Rebbin",
+      "url": "https://www.youtube.com/watch?v=SsUmmN1oOgo",
+      "summary": "Daniel Rebbin investigates whether interactions between fast axonal signaling and slower ephaptic coupling help organize developing neuronal cultures. Multi-electrode recordings show traveling spikes, slower gamma-phase waves, and renewed synchrony across roughly two to three millimeters rather than simple decay with distance. A phenomenological pruning model incorporating both signaling modes reproduces separated activity bands better than the tested exponential alternatives. The results support a candidate mechanism, but direct perturbations, earlier developmental recordings, and stronger comparisons with alternative pattern-forming models remain needed.",
+      "rating": 8,
+      "ratingReason": "I value the concrete link between measured propagation speeds, spatial predictions, and testable developmental mechanisms.",
+      "labels": [
+        "Bioelectricity",
+        "Neuroscience",
+        "Biophysics",
+        "Experimental methods"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "-elegwQQOww",
+      "position": 17,
+      "title": "\"Diverse Intelligence: new frontier for Origins, Possibilities, and Diseases of Minds by\" M. Levin",
+      "url": "https://www.youtube.com/watch?v=-elegwQQOww",
+      "summary": "Levin introduces diverse intelligence to mental-health professionals through the collective problem-solving of cells building and repairing bodies. He describes experiments involving altered planarian head patterns, ectopic eyes, and bioelectric interventions that rescue aspects of abnormal frog development. These animal studies motivate his proposed analogy between changing anatomical targets and changing cognitive goals, not established human treatments. He then considers xenobots, anthrobots, and future augmented people, asking how clinicians might understand minds with unfamiliar embodiments, sensory worlds, and developmental histories.",
+      "rating": 9,
+      "ratingReason": "I find the experimentally anchored bridge from developmental biology to unfamiliar kinds of minds especially engaging.",
+      "labels": [
+        "Bioelectricity",
+        "Regeneration",
+        "Collective intelligence",
+        "Cognition"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "G6UvwyiX-rQ",
+      "position": 18,
+      "title": "\"Beyond the Molecular Model of Communication\" by Nirosha Murugan",
+      "url": "https://www.youtube.com/watch?v=G6UvwyiX-rQ",
+      "summary": "Nirosha Murugan argues that biological information depends on temporal and spatial patterns, not merely the presence of signaling molecules. She presents patterned magnetic-field studies in neuronal cultures and preliminary human pain experiments, alongside work measuring ultraweak photon emissions from cells and the head. Reported emission differences motivate research into biological-state monitoring, while whether organisms use these photons to communicate remains open. The discussion identifies unresolved transduction mechanisms, tissue specificity, and heterogeneous responses as barriers to prospective medical applications.",
+      "rating": 8,
+      "ratingReason": "I am interested in the measurement challenges and the careful distinction between detecting emissions and demonstrating communication.",
+      "labels": [
+        "Biophysics",
+        "Experimental methods",
+        "Language & communication",
+        "Neuroscience"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "3_XRPv1OcPg",
+      "position": 19,
+      "title": "\"Geometric Framework for Biological Evolution\" by Vitaly Vanchurin",
+      "url": "https://www.youtube.com/watch?v=3_XRPv1OcPg",
+      "summary": "Vitaly Vanchurin proposes a geometric description of evolution that should not depend on arbitrary choices of trait coordinates. He embeds discrete genotypes in a continuous space, relates distances to covariance under maximum-entropy assumptions, and derives an approximate gradient-ascent description from the Price equation. The central empirical challenge is comparing population covariance with covariance of individual evolutionary changes to distinguish candidate learning algorithms. Existing sequence collections help characterize populations, but tracing mutation trajectories and incorporating interactions between organizational levels remain unresolved.",
+      "rating": 8,
+      "ratingReason": "I find the effort to turn evolution-as-learning from an analogy into a measurable mathematical proposal rewarding.",
+      "labels": [
+        "Evolution",
+        "Mathematics",
+        "AI & computation"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "oe6v2fTewyU",
+      "position": 20,
+      "title": "\"Evolution of cooperativity in the game of Prisoner's Dilemma\" by Alexandre V. Morozov",
+      "url": "https://www.youtube.com/watch?v=oe6v2fTewyU",
+      "summary": "Alexandre Morozov explores how cooperation can survive when individuals respond differently to different opponents rather than use one universal cooperation probability. In his evolutionary Prisoner's Dilemma models, this change replaces steady deterioration with cooperative plateaus and upheavals; mutations can even rescue populations initially dominated by defectors. Evolving neural networks that inspect opponents' weights show similar recoveries. A deliberately constructed takeover example illustrates the limitation: a successful lineage improves collective outcomes only when its descendants cooperate with one another, rather than merely attract support from outsiders.",
+      "rating": 8,
+      "ratingReason": "I find the contrast between a tiny modeling change and dramatically different collective outcomes especially engaging.",
+      "labels": [
+        "Evolution",
+        "Collective intelligence",
+        "Mathematics"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "uT3PwI_pX5E",
+      "position": 21,
+      "title": "\"Energy Constraints and Tradeoffs\" by Martin Picard",
+      "url": "https://www.youtube.com/watch?v=uT3PwI_pX5E",
+      "summary": "Martin Picard connects mitochondrial networks to a proposed hierarchy of energy spending: vital functions first, stress responses next, and growth, maintenance, and repair with the remainder. He reports that dexamethasone-treated human fibroblasts divided less while consuming more energy and advancing faster on epigenetic aging measures. A small metabolic-chamber study likewise found elevated energy expenditure in participants with mitochondrial disease despite less movement. Picard proposes that cellular distress signals recruit brain-mediated conservation, potentially explaining how energetically costly cells coexist with declining whole-body activity during aging.",
+      "rating": 9,
+      "ratingReason": "I am particularly interested in the connection between measurable energy budgets, cellular stress, and whole-body behavior.",
+      "labels": [
+        "Metabolism",
+        "Aging",
+        "Cell biology"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated",
+        "note": "The available captions end mid-sentence; this summary covers the supplied transcript."
+      }
+    },
+    {
+      "id": "EeKnxXPy3Xs",
+      "position": 22,
+      "title": "\"Aging, goal-directedness, and bioelectricity\" by Michael Levin",
+      "url": "https://www.youtube.com/watch?v=EeKnxXPy3Xs",
+      "summary": "Michael Levin proposes that aging may involve deterioration of the tissue-level goals that maintain anatomy, alongside familiar damage-based explanations. He connects persistent two-headed planarian regeneration and bioelectric rescue of malformed frog brains to the idea that cells follow editable anatomical set points. A simulation loses organized structure after achieving its developmental target, without imposed damage or an aging program, and recovers when regeneration is demanded. Levin presents this as a candidate cybernetic explanation, complemented by ongoing measurements of senescence-associated electrical changes and diverging evolutionary-age signatures across tissues.",
+      "rating": 9,
+      "ratingReason": "I find the hypothesis that maintaining goals matters for maintaining bodies unusually thought-provoking.",
+      "labels": [
+        "Aging",
+        "Bioelectricity",
+        "Regeneration",
+        "Control theory"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "MIjwbIEG2JI",
+      "position": 23,
+      "title": "Computationalism and consciousness with Nic Rouleau, Jaan Aru, and Borjan Milinkovic.",
+      "url": "https://www.youtube.com/watch?v=MIjwbIEG2JI",
+      "summary": "This discussion asks which physical forms of computation might support consciousness without assuming either that current AI is conscious or that biology has exclusive access to experience. Participants consider whether identical outward behavior could conceal different experiential capacities, then debate analog hardware, observer-dependent computation, and multiscale organization. Levin's examples of learning molecular networks shift attention toward memory and persistent internal states. The conversation also treats action and self-boundaries as central questions, using embryonic splitting and shared anatomical goals to explore how biological individuals become defined.",
+      "rating": 8,
+      "ratingReason": "I enjoy the unresolved tension between behavioral tests, physical implementation, and first-person experience.",
+      "labels": [
+        "Consciousness",
+        "AI & computation",
+        "Cognition",
+        "Philosophy"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated",
+        "note": "The available captions end mid-sentence; this summary covers the supplied transcript."
+      }
+    },
+    {
+      "id": "K8BmMU1Tm-I",
+      "position": 24,
+      "title": "Free Lunches: Model Systems for Studying the Agential Gifts from the Platonic Space by Michael Levin",
+      "url": "https://www.youtube.com/watch?v=K8BmMU1Tm-I",
+      "summary": "Michael Levin argues that unexpectedly capable biological and computational systems motivate studying a structured space of possible patterns, which he interprets through an explicitly speculative extension of mathematical Platonism. Examples include tadpoles using ectopic eyes, xenobots assembling further xenobots from loose cells, and anthrobots supporting repair across scratched neural cultures. He also describes learning and increasing causal integration in small network models. His proposed research program asks what useful behaviors appear without specific training or selection, while extending the hypothesis to engineered systems rather than reserving it for life.",
+      "rating": 9,
+      "ratingReason": "I find the attempt to turn a sweeping philosophical proposal into experiments on unexpected capabilities highly intriguing.",
+      "labels": [
+        "Philosophy",
+        "Mathematics",
+        "Collective intelligence",
+        "AI & computation"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "QeMajYvhEbI",
+      "position": 25,
+      "title": "\"Interesting Behavior by Generic Systems\" by Chris Fields",
+      "url": "https://www.youtube.com/watch?v=QeMajYvhEbI",
+      "summary": "Chris Fields develops a theoretical argument that interesting behavior need not be restricted to organisms or elaborate machines. Starting from interacting quantum systems, he connects separability and limited boundary information to hidden internal states that observable behavior cannot uniquely reveal. Geometric phase, illustrated by transporting a coordinate frame around a sphere, becomes his bridge to memory, computation, and context dependence. Fields proposes replacing a binary search for intelligence with investigations of surprising behavior, arguing that coarse-graining can conceal the complexity available in generic physical systems.",
+      "rating": 7,
+      "ratingReason": "I am drawn to the geometric account of hidden state, though the abstract physics makes this a more specialized interest.",
+      "labels": [
+        "AI & computation",
+        "Mathematics",
+        "Biophysics",
+        "Philosophy"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "mtATYCmKkgI",
+      "position": 26,
+      "title": "\"Updating our Understanding of Cell Biology\" by Michael Patrick Hughes",
+      "url": "https://www.youtube.com/watch?v=mtATYCmKkgI",
+      "summary": "Michael Patrick Hughes uses biomolecular condensates to reconsider how proteins, ions, and water jointly organize cells. He explains how phase separation can buffer protein concentration and create different pH environments, then revisits Gilbert Ling's controversial ion-partitioning experiments without endorsing rejection of the sodium-potassium pump. Oscillations in yeast metabolites and free potassium provide another proposed connection between hydration and cellular work. Hughes closes with preliminary stress-granule observations under both depolarizing and hyperpolarizing conditions, while discussion identifies unresolved controls and alternative interpretations rather than a settled replacement for cell biology.",
+      "rating": 8,
+      "ratingReason": "I find the detailed interplay of hydration, condensates, and electrical state a compelling alternative view of cellular organization.",
+      "labels": [
+        "Cell biology",
+        "Biophysics",
+        "Bioelectricity",
+        "Experimental methods"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated",
+        "note": "The available captions end mid-sentence; this summary covers the supplied transcript."
+      }
+    },
+    {
+      "id": "0VPj2pmS_uQ",
+      "position": 27,
+      "title": "The Virtual Cell by Anthony Finbow",
+      "url": "https://www.youtube.com/watch?v=0VPj2pmS_uQ",
+      "summary": "Anthony Finbow presents a speculative engineering model of mitochondrial cristae as coupled oscillators rather than simply ATP-producing membrane folds. He maps electron transport, ATP synthase rotation, and crista junctions onto components of a phase-locked loop, proposing electromagnetic and mechanical coupling as coordination mechanisms. Further conjectures concern organelle orientation sensing, anticipatory control, and communication between mitochondria. In discussion, Levin asks for discriminating perturbations; Finbow suggests controlled changes in oxygen, temperature, or substrates paired with measurements of predicted wave patterns, emphasizing that the framework still needs experimental evidence.",
+      "rating": 7,
+      "ratingReason": "I find the electronics-to-mitochondria analogy imaginative and worth exploring as a source of testable questions.",
+      "labels": [
+        "Metabolism",
+        "Biophysics",
+        "Control theory",
+        "AI & computation"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "tawlbcxjGJ4",
+      "position": 28,
+      "title": "Platonic Space discussion 5",
+      "url": "https://www.youtube.com/watch?v=tawlbcxjGJ4",
+      "summary": "The group explores whether coupling to stable environmental relationships could explain how abstract patterns influence behavior. A coffee-price example shows how a shopper's budget can translate distant crop damage into local decisions without explicit knowledge of the weather. Participants debate quantum probability and computational accounts of insight, then connect coordinated dance and worn footpaths to mutual adaptation between agents and environments. An extended, speculative discussion treats rituals, religious narratives, and mathematics as different ways people coordinate around shared patterns rather than establishing a single account of Platonic space.",
+      "rating": 7,
+      "ratingReason": "I find the coffee-price and dance examples engaging, although the sprawling metaphysical discussion interests me less than a focused experimental argument.",
+      "labels": [
+        "Philosophy",
+        "Collective intelligence",
+        "Cognition"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated",
+        "note": "The available captions end mid-thought; this summary covers the supplied transcript."
+      }
+    },
+    {
+      "id": "pnNVVb2ngO0",
+      "position": 29,
+      "title": "Platonic Space discussion 4",
+      "url": "https://www.youtube.com/watch?v=pnNVVb2ngO0",
+      "summary": "A baseball-catching analogy opens a debate about whether Platonic patterns require a separate realm or emerge through organism-environment coupling. The conversation then examines language: a finite brain could implement recursive rules with unbounded possibilities, while statistical similarities between whale calls and human speech need not establish equivalent grammatical organization. Participants discuss cortical repurposing and Levin's proposal that patterns compete for embodiment. Questions about brain-computer interfaces and shopping as collective intelligence highlight an unresolved distinction between expanded problem-solving capacity and changes in subjective selfhood.",
+      "rating": 8,
+      "ratingReason": "I especially enjoy the tension between formal language structure, neural implementation, and the question of what joining a larger intelligence would feel like.",
+      "labels": [
+        "Language & communication",
+        "Neuroscience",
+        "Philosophy",
+        "Collective intelligence"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "bujwU3pKc6c",
+      "position": 30,
+      "title": "Discussion #1 with Amahury Jafet Lopez Diaz, Carlos Gershenson-Garcia, and Richard Watson",
+      "url": "https://www.youtube.com/watch?v=bujwU3pKc6c",
+      "summary": "Levin and his interlocutors debate whether biology's unexpected capabilities warrant a nonphysical pattern space or an account based on constraints within one world. A proposed test for a separate realm requires identifiable entities, interaction laws, and systematic outcome differences when ordinary physical conditions remain fixed. Levin prioritizes frameworks that motivate new experiments, while acknowledging unanswered questions about the space's structure and origins. The alternative draws on symbol-matter complementarity and organizational closure, reframing apparent computational bonuses as consequences of coupled dynamics rather than evidence for another substance.",
+      "rating": 8,
+      "ratingReason": "I value the direct challenge to what would distinguish competing explanations experimentally more than agreement on metaphysical terminology.",
+      "labels": [
+        "Philosophy",
+        "Mathematics",
+        "Experimental methods"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "0BS-BzEFTXA",
+      "position": 31,
+      "title": "\"Cognition Emerges from Neural Dynamics\" by Earl Miller",
+      "url": "https://www.youtube.com/watch?v=0BS-BzEFTXA",
+      "summary": "Earl Miller argues that flexible cognition requires more than fixed connections between specialized neurons. He presents mixed-selectivity recordings and a model in which alpha-beta waves act as moving inhibitory stencils, shaping which neurons express incoming information. Anesthesia experiments reveal altered oscillations and disrupted coordination, while working-memory recordings link rotating waves with recovery from distraction. Miller proposes that wave interactions provide efficient analog computation and that sufficiently organized patterns could support unified conscious experience; the consciousness account remains a proposal, distinct from the reported recordings.",
+      "rating": 10,
+      "ratingReason": "I find the connection between concrete neural recordings, moving inhibitory patterns, and analog computation exceptionally compelling as a topic to explore.",
+      "labels": [
+        "Neuroscience",
+        "Cognition",
+        "Biophysics",
+        "Consciousness"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "w24Bo2yTNxE",
+      "position": 32,
+      "title": "\"Robot Scientists, Active Learning, & the Problem of Biological Individuality\" by Kameron Bielawski",
+      "url": "https://www.youtube.com/watch?v=w24Bo2yTNxE",
+      "summary": "Kameron Bielawski studies why similar biological appearances can conceal different responses to intervention. Hierarchical neural cellular automata demonstrate this problem, and seeded searches reuse successful interventions while adapting them to individual simulated systems. He then presents MomBot, a closed-loop laboratory platform whose active learner selects electrical-stimulation durations near uncertain xenobot immobilization outcomes rather than sampling blindly. Patient-specific treatment discovery is a future ambition, not a demonstrated clinical application; discussion emphasizes choosing informative measurements and distinguishing useful information gain from response variance.",
+      "rating": 9,
+      "ratingReason": "I find autonomous experiment selection and the practical problem of adapting interventions to individual systems particularly interesting.",
+      "labels": [
+        "AI & computation",
+        "Experimental methods",
+        "Control theory",
+        "Cell biology"
+      ],
+      "transcript": {
+        "status": "available",
+        "language": "en",
+        "kind": "generated"
+      }
+    },
+    {
+      "id": "P75iVMmbqQk",
+      "position": 33,
+      "title": "\"Learning Dynamics from Statistics: a score-based approach\" by Ludovico Giorgini",
+      "url": "https://www.youtube.com/watch?v=P75iVMmbqQk",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "_U8AwUq_aJQ",
+      "position": 34,
+      "title": "\"From Entropy to Epiplexity\" by Andrew Wilson and Marc Finzi",
+      "url": "https://www.youtube.com/watch?v=_U8AwUq_aJQ",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "YnfaT5APPB0",
+      "position": 35,
+      "title": "A Multiscale Logic of Collective Intelligence\" by Donald Hoffman and Chetan Prakash",
+      "url": "https://www.youtube.com/watch?v=YnfaT5APPB0",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "0U9gOKqGxwY",
+      "position": 36,
+      "title": "Discussion: Lisa Maroski, Michael Levin, Richard Watson",
+      "url": "https://www.youtube.com/watch?v=0U9gOKqGxwY",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "w_ciA-yyF8M",
+      "position": 37,
+      "title": "Discussion: Richard Watson, Alexey Tolchinsky, Mark Solms, Michael Levin, and Karl Friston",
+      "url": "https://www.youtube.com/watch?v=w_ciA-yyF8M",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "Dz8vuzqFfoo",
+      "position": 38,
+      "title": "\"Psychedelic Healing\" by Dr. Uroš Laban",
+      "url": "https://www.youtube.com/watch?v=Dz8vuzqFfoo",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "nYK4NvqyY0k",
+      "position": 39,
+      "title": "Conversation with Nic Rouleau, part 2: neuroscience, memory transfer, aging of cognition, and more",
+      "url": "https://www.youtube.com/watch?v=nYK4NvqyY0k",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "3talIGE_v9Y",
+      "position": 40,
+      "title": "Conversation with Nic Rouleau, part 1: \"Some thoughts on the mind as material\"",
+      "url": "https://www.youtube.com/watch?v=3talIGE_v9Y",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "wj8RkmS3kpM",
+      "position": 41,
+      "title": "\"Cancer as a Distorted Bioelectric State\" by Saverio Gentile",
+      "url": "https://www.youtube.com/watch?v=wj8RkmS3kpM",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "X9dK7UKBICE",
+      "position": 42,
+      "title": "\"MorphogeneticScaffolds in Self-Organising Systems\" by Milton Montero",
+      "url": "https://www.youtube.com/watch?v=X9dK7UKBICE",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "MGNJJe-apb0",
+      "position": 43,
+      "title": "Conversation 2 with Lisa Barrett, Ben Lyons, and Karen Quigley",
+      "url": "https://www.youtube.com/watch?v=MGNJJe-apb0",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "ePYdt-CDLkU",
+      "position": 44,
+      "title": "\"Leukemic cells hijack stromal bioelectricity to reprogram the bone marrow niche\" by Martina Pigazzi",
+      "url": "https://www.youtube.com/watch?v=ePYdt-CDLkU",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "JWAwBOdsOAc",
+      "position": 45,
+      "title": "Cancer: mitochondria and metabolism - a discussion with Thomas Seyfried and his group",
+      "url": "https://www.youtube.com/watch?v=JWAwBOdsOAc",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "R1ZSKNioG10",
+      "position": 46,
+      "title": "\"On the Mechanics of Cellular and Multicellular Active Matter\" by Haiqian Yang",
+      "url": "https://www.youtube.com/watch?v=R1ZSKNioG10",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "lGfEBo7p3g4",
+      "position": 47,
+      "title": "\"Effects of Acoustic Waves on Microtubules and Cells\" by Jack Tuszynski",
+      "url": "https://www.youtube.com/watch?v=lGfEBo7p3g4",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "4IHPdRtGwOU",
+      "position": 48,
+      "title": "\"Experimental Evidence for Long-Distance Electrodynamic Intermolecular Forces\" by Marco Pettini",
+      "url": "https://www.youtube.com/watch?v=4IHPdRtGwOU",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "KKrRLgPp6XI",
+      "position": 49,
+      "title": "\"On Biological and Artificial Consciousness\" by Borjan Milinkovic and Jaan Aru",
+      "url": "https://www.youtube.com/watch?v=KKrRLgPp6XI",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    },
+    {
+      "id": "2zqY06ujge8",
+      "position": 50,
+      "title": "\"DEMOCRITUS: Causality from Language\" by Sridhar Mahadevan",
+      "url": "https://www.youtube.com/watch?v=2zqY06ujge8",
+      "summary": null,
+      "rating": null,
+      "ratingReason": null,
+      "labels": [],
+      "transcript": {
+        "status": "pending",
+        "reason": "Awaiting transcript. YouTube blocked caption retrieval; a summary, interest rating, and topic labels will be added only after the transcript can be read."
+      }
+    }
+  ]
+}

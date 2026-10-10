@@ -4,6 +4,8 @@ npm-debug.log*
 .pnpm-debug.log*
 dist/
 build/
+playwright-report/
+test-results/
 
 # Rust
 target/
